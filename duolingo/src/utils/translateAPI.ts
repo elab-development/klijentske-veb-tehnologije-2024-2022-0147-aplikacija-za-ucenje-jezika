@@ -8,7 +8,7 @@ export const translate = async (
   const options: RequestInit = {
     method: 'POST',
     headers: {
-      'x-rapidapi-key': '8e80b71190msh6766b31f564c0d4p1083c3jsnc2d0c302de09',
+      'x-rapidapi-key': '4a71633783msh9ccf9a25ac0d1eap1776fcjsn522b5c7b2b6c',
       'x-rapidapi-host': 'deep-translate1.p.rapidapi.com',
       'Content-Type': 'application/json',
     },
