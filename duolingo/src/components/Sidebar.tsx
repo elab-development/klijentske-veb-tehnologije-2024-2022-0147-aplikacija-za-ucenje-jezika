@@ -38,6 +38,10 @@ const Sidebar = () => {
           <i className='fas fa-graduation-cap'></i>
           <span className='capitalize'>courses</span>
         </Link>
+        <Link to={'/upcoming'}>
+          <i className='fas fa-language'></i>
+          <span className='capitalize'>upcoming</span>
+        </Link>
         <Link to={'/login'} onClick={logout}>
           <i className='fas fa-sign-out'></i>
           <span className='capitalize'>logout</span>
